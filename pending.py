@@ -9,4 +9,4 @@ with open ('pendings.txt', 'a') as p:
 
 print("\nTitle: " + User + " - "  + Title + "\nUser: " + User + "\nReason: " + Reason + "\nPunishment: " + Punishment + "\nReference: " + Reference + "\n")
 
-input("Press enter to exit ;)")
+input("Press enter to exit")
